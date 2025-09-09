@@ -1,4 +1,4 @@
 # Lab 1 Test Project
-This project was created to experiment with git
+project was created to experiment with git
 Making changes here... MORE CHANGES HERE
 hello
